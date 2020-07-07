@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install redis-tools
+apt-get install redis-tools
