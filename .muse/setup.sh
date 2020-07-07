@@ -1,2 +1,2 @@
 #!/bin/bash
-apt-get install -y redis-tools
+apt update && apt install -y redis-tools
